@@ -1,9 +1,19 @@
 #Container {
-width:300px;
+width:400px;
 }
 #sidebar {
 width:100px;
 }
 #Mainbody {
-width:200px;
+width:300px;
 }
+.one {
+width:100px;
+}
+.two {
+width:100px;
+}
+.three {
+width:100px;
+}
+

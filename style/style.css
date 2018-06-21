@@ -11,6 +11,10 @@ margin-bottom:21px;
 height:100px;
 background-color:#ccc;
 }
+#hero-image {
+    height:200px;
+    background-color:#ccc;
+}
 #menu {
 height:60px;
 background-color:#666;
@@ -23,10 +27,32 @@ float:left;
 }
 #Mainbody {
 width:550px;
-height:400px;
+height:40px;
 background-color:#03c;
 float:right;
 }
+#one{
+width:550px;
+height:200px;
+background:lightgreen;
+margin-bottom:21px;
+float:right;
+}
+#two {
+width:550px;
+height:70px;
+background:white;
+margin-bottom:21px;
+float:right;
+}
+#three {
+width:550px;
+height:87px;
+background:red;
+margin-bottom:21px;
+float:right;
+}
+
 #Footer {
 height:100px;
 margin-bottom:21px;
